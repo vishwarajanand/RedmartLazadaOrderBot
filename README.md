@@ -1,4 +1,4 @@
-# RedmartLazadaOrderBot
+# Redmart Lazada Order Bot
 
 [Redmart orders on Lazada](https://cart.lazada.sg/cart) are slotted -  one order per day and that too only limited slots are opened per delivery location. See lazada-redmart delivery change notice on [this website](https://pages.lazada.sg/wow/i/sg/redmart/covid19updates):
 
