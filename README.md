@@ -1,6 +1,6 @@
 # RedmartLazadaOrderBot
 
-[Redmart orders on Lazada](https://cart.lazada.sg/cart) are slotted - one order per day and that too limited no of slots per delivery location. See lazada-redmart delivery impacted notice as mentioned on [this website](https://pages.lazada.sg/wow/i/sg/redmart/covid19updates):
+[Redmart orders on Lazada](https://cart.lazada.sg/cart) are slotted -  one order per day and that too only limited slots are opened per delivery location. See lazada-redmart delivery change notice on [this website](https://pages.lazada.sg/wow/i/sg/redmart/covid19updates):
 
 ![Covid19 Updates Redmart](https://raw.githubusercontent.com/vishwarajanand/RedmartLazadaOrderBot/master/covid_impact_on_deliveries.png "Covid19 Updates Redmart")
 
@@ -31,5 +31,4 @@ vishwarajan-mbp:chrome_automation vishwarajanand$ source venv/bin/activate
 
 ## Demo
 
-![Demo Video](https://raw.githubusercontent.com/vishwarajanand/RedmartLazadaOrderBot/master/demo_run.mp4 "Demo Video")
-
+[![Watch the demo](https://img.youtube.com/vi/3FnKjcRyjU8/maxresdefault.jpg)](https://youtu.be/3FnKjcRyjU8)
