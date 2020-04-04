@@ -29,6 +29,6 @@ vishwarajan-mbp:chrome_automation vishwarajanand$ source venv/bin/activate
 (venv) vishwarajan-mbp:chrome_automation vishwarajanand$ python web_bot.py
 ```
 
-## Demo
+## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/3FnKjcRyjU8/maxresdefault.jpg)](https://youtu.be/3FnKjcRyjU8)
+[![Watch on YouTube](https://img.youtube.com/vi/3FnKjcRyjU8/maxresdefault.jpg)](https://youtu.be/3FnKjcRyjU8)
