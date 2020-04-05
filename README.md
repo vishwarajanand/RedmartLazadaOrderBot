@@ -2,7 +2,7 @@
 
 [Redmart orders on Lazada](https://cart.lazada.sg/cart) are slotted -  one order per day and that too only limited slots are opened per delivery location. See lazada-redmart delivery change notice on [this website](https://pages.lazada.sg/wow/i/sg/redmart/covid19updates):
 
-![Covid19 Updates Redmart](https://raw.githubusercontent.com/vishwarajanand/RedmartLazadaOrderBot/master/covid_impact_on_deliveries.png "Covid19 Updates Redmart")
+![Covid19 Updates Redmart](https://raw.githubusercontent.com/vishwarajanand/RedmartLazadaOrderBot/master/demos/covid_impact_on_deliveries.png "Covid19 Updates Redmart")
 
 In order to survive, I attempted to make an automation so that I could secure a delivery slot for my Redmart orders on Lazada.
 
